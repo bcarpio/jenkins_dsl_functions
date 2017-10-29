@@ -2,5 +2,5 @@
 package asu.selfservice
 
 def helloworld(someText) {
-    sh "echo ${someText}
+    sh "echo ${someText}"
 }
